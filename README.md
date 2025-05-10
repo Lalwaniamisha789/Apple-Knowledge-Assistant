@@ -98,3 +98,6 @@ streamlit run app.py
 - Extend toolset with price lookup, timeline, etc.
 - Switch to a larger LLM for richer responses
 
+## Access the app :
+https://apple-knowledge-assistant-amisha789.streamlit.app/
+

@@ -19,7 +19,7 @@ This Streamlit app is an intelligent assistant for answering questions about App
 ## Sample Outputs
 
 ### 1. General Question  
-**Query:** `Name all apple products`  
+**Query:** `Name all apple products`  : It gives a list of different porducts along with the different models available for the product like iphone and its models, mackbooks, apple watches etc.
 ![General Question Output](images/output_general.png)
 
 ---

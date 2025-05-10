@@ -32,19 +32,19 @@ This Streamlit app is an intelligent assistant for answering questions about App
 
 ### 3. Calculator  
 **Query:** `Calculate 15 * 3`  
-![Calculator Output](images/output_calculator.png)
+![Calculator Output](images/Screenshot 2025-05-10 153202.png)
 
 ---
 
 ### 4. Dictionary Definition  
 **Query:** `Define M4`  
-![Dictionary Output](images/output_define.png)
+![Dictionary Output](images/Screenshot 2025-05-10 153150.png)
 
 ---
 
 ### 5. Product Comparison  
 **Query:** `Compare iPad Pro vs iPad Air`  
-![Comparison Output](images/output_compare.png)
+![Comparison Output](images/Screenshot 2025-05-10 153226.png)
 
 ---
 

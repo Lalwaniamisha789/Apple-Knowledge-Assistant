@@ -89,6 +89,7 @@ streamlit run app.py
 - Works fully offline once vector store is created
 - Ideal for building product-specific knowledge assistants
 - You can see the retrieved document context and top 3 chunks used to generate each answer
+- You can also see the decision route it followed whether it was rag, calculator, dictionary or comparator.
 
 ## Future Improvements 
 - Add PDF/HTML loader support

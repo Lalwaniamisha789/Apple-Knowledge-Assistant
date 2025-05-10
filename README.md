@@ -4,6 +4,18 @@ This Streamlit app is an intelligent assistant for answering questions about App
 
 ---
 
+## Architecture & Key Design Choices
+
+- **Hybrid RAG + Agent Architecture**: Combines RAG-based generation with agent-based routing for different query types (e.g., calculator, definition, comparison).
+- **Rule-based Decision Routing**: `agent.py` uses keyword and pattern matching to route queries to the appropriate tool or RAG engine.
+- **Modular Tooling**: Implements distinct tools for calculation, definitions, and product comparisons, which can be extended easily.
+- **Local LLM (TinyLlama)**: Uses TinyLlama-1.1B-Chat for efficient local inference with no cloud dependency.
+- **FAISS-based Document Retrieval**: Vector similarity search over pre-loaded Apple product documentation for relevant context.
+- **Transparent Query Handling**: Displays decision path (RAG, calculator, etc.) and retrieved chunks used to build the answer.
+- **Streamlit Interface**: Provides a clean and interactive UI for input/output, including visual feedback and sample use cases.
+
+---
+
 ## Features
 
 - Ask **general questions** like `Name all Apple products`

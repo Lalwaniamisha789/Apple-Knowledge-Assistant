@@ -1,0 +1,9 @@
+Apple's HomePod lineup includes two major smart speaker categories:
+
+- HomePod (2nd Gen):
+  A full-sized speaker offering rich bass, detailed mids, and immersive spatial audio. It also functions as a HomeKit hub, supports Thread and Matter, and integrates deeply with Siri and the Apple ecosystem.
+
+- HomePod mini:
+  A smaller, more affordable option that still supports most HomeKit features and offers surprisingly rich sound for its size. It includes Intercom, Siri, and AirPlay 2 support.
+
+Both devices are designed for seamless smart home control and excellent audio in Apple-centric environments.

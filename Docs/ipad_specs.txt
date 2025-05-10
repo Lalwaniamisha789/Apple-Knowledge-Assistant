@@ -1,0 +1,20 @@
+iPad Pro 12.9-inch (M4, 2024)
+- Display: 12.9-inch Ultra Retina Tandem OLED
+- Chip: Apple M4
+- Storage: 256GB to 2TB
+- Support: Apple Pencil Pro, Magic Keyboard
+
+iPad Air 11-inch (M2, 2024)
+- Display: 11-inch Liquid Retina
+- Chip: Apple M2
+- Storage: 64GB to 1TB
+
+iPad Mini 6th Gen (2021)
+- Display: 8.3-inch Liquid Retina
+- Chip: A15 Bionic
+- Storage: 64GB to 256GB
+
+iPad 10th Gen (2022)
+- Display: 10.9-inch Liquid Retina
+- Chip: A14 Bionic
+- Storage: 64GB to 256GB

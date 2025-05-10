@@ -1,0 +1,8 @@
+Apple offers several iPad categories:
+
+- iPad Pro: 11-inch and 12.9-inch (now with M4 chip)
+- iPad Air: 11-inch with M2 chip
+- iPad Mini: 8.3-inch with A15 Bionic
+- iPad (Standard): 10.9-inch with A14 Bionic
+
+Each category targets different users, from creatives to students.

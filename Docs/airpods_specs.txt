@@ -1,0 +1,24 @@
+AirPods Pro (2nd Gen, USB-C, 2023)
+- Chip: H2 in earbuds, U1 in MagSafe case
+- ANC: Yes, with Adaptive Transparency and dynamic noise filtering
+- Audio: Custom high-excursion driver, Spatial Audio with head tracking
+- Controls: Touch-sensitive stem (volume, playback, calls)
+- Battery Life: Up to 6 hours (30 with case)
+- Charging: USB-C, MagSafe, Qi wireless
+- Features: Personalized Spatial Audio, Find My, conversation awareness
+
+AirPods Max (2020)
+- Design: Over-ear with stainless steel frame and breathable mesh headband
+- Audio: Apple-designed dynamic driver, computational audio with 10 audio cores per ear cup
+- Chip: H1 in each ear cup
+- ANC: Active Noise Cancellation with Transparency mode
+- Spatial Audio: With head tracking
+- Battery Life: Up to 20 hours with ANC and Spatial Audio enabled
+- Charging: Lightning to USB-C
+
+AirPods (3rd Gen, 2021)
+- Chip: H1
+- Audio: Adaptive EQ, Spatial Audio
+- Design: Shorter stem, contour fit
+- Battery: 6 hours per charge (30 hours with case)
+- Features: Sweat and water resistance (IPX4), skin-detect sensors

@@ -1,0 +1,5 @@
+As of 2024, Apple offers the following MacBook lines:
+
+- MacBook Air: Available in 13-inch and 15-inch sizes, with M1, M2, M3, and M4 chips. Older Intel models also exist.
+- MacBook Pro: Available in 13-inch (Intel, M1, M2), 14-inch (M1 Pro, M2 Pro, M3/M4 Pro/Max), and 16-inch (M1/M2/M3/M4 Pro/Max).
+- Each line varies by display, ports, chipsets, and target users (Air = light, Pro = performance).

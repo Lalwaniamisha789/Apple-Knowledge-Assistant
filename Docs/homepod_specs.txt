@@ -1,0 +1,15 @@
+HomePod (2nd Gen, 2023)
+- Audio: High-excursion woofer, 5 horn-loaded tweeters, Spatial Audio
+- Chip: Apple S7
+- Connectivity: 802.11n Wi-Fi, Thread, Matter, Bluetooth 5.0
+- Sensors: Temperature, Humidity, Sound Recognition (e.g. smoke alarms)
+- Features: Handoff with UWB, Siri, AirPlay 2, stereo pairing
+- Compatibility: iPhone SE (2nd gen and later), iPhone 8 and later with iOS 16.3+
+
+HomePod mini (2020)
+- Audio: Full-range driver and dual passive radiators
+- Chip: Apple S5
+- Connectivity: 802.11n Wi-Fi, Thread, Bluetooth 5.0
+- Features: Intercom, Siri, AirPlay 2, stereo pairing, multi-room audio
+- Colors: White, Space Gray, Blue, Orange, Yellow
+- Size: 3.3 inches tall, 345 grams

@@ -1,0 +1,18 @@
+iPhone 15 Pro Max (2023)
+- Display: 6.7-inch OLED Super Retina XDR
+- Chip: A17 Pro
+- Storage: 256GB to 1TB
+- Camera: Triple-lens with periscope zoom
+- Frame: Titanium
+
+iPhone 14 Pro (2022)
+- Display: 6.1-inch OLED Super Retina XDR
+- Chip: A16 Bionic
+- Storage: 128GB to 1TB
+- Camera: Triple-lens, 48MP main sensor
+
+iPhone SE (3rd Gen, 2022)
+- Display: 4.7-inch Retina HD
+- Chip: A15 Bionic
+- Touch ID, Home Button
+- Storage: 64GB to 256GB

@@ -1,0 +1,27 @@
+MacBook Air 13-inch (M4, 2024)
+- Display: 13.6-inch Liquid Retina
+- Chip: Apple M4
+- Storage: 256GB to 2TB
+- Weight: 2.7 pounds
+
+MacBook Air 15-inch (M4, 2024)
+- Display: 15.3-inch Liquid Retina
+- Chip: Apple M4
+- Storage: 256GB to 2TB
+- Weight: 3.3 pounds
+
+MacBook Pro 14-inch (M4 Pro/Max, 2024)
+- Display: 14.2-inch Liquid Retina XDR
+- Chip: Apple M4 Pro or M4 Max
+- Storage: 512GB to 8TB
+- Weight: 3.5 pounds
+
+MacBook Pro 16-inch (M4 Pro/Max, 2024)
+- Display: 16.2-inch Liquid Retina XDR
+- Chip: Apple M4 Pro or M4 Max
+- Storage: 512GB to 8TB
+- Weight: 4.7 pounds
+
+MacBook Air (M1 to M3, 2020–2023)
+- Varying models from 13.3 to 15.3-inch, chips include M1, M2, M3
+- Storage up to 2TB, weights 2.7–3.3 pounds

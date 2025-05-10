@@ -1,0 +1,28 @@
+Apple Watch Series 9 (2023)
+- Sizes: 41mm and 45mm
+- Display: Always-On Retina LTPO OLED, up to 2000 nits brightness
+- Chip: Apple S9 SiP with 4-core Neural Engine
+- Storage: 64GB
+- Sensors: Electrical heart sensor, Blood Oxygen, Optical heart sensor, Accelerometer, Gyroscope, Ambient light sensor
+- Health Features: ECG, Blood Oxygen, Heart Rate, Sleep Tracking, Cycle Tracking
+- Interaction: Double Tap gesture, on-device Siri
+- Materials: Aluminum or Stainless Steel
+
+Apple Watch SE (2nd Gen, 2022)
+- Sizes: 40mm and 44mm
+- Display: Retina LTPO OLED
+- Chip: Apple S8 SiP
+- Storage: 32GB
+- Features: High and low heart rate notifications, Fall detection, Emergency SOS, Crash Detection
+- Connectivity: GPS and GPS + Cellular models
+- Materials: 100% recycled aluminum
+
+Apple Watch Ultra 2 (2023)
+- Size: 49mm
+- Display: Always-On Retina, 3000 nits brightness
+- Chip: S9 SiP
+- Storage: 64GB
+- Sensors: Depth gauge, water temperature sensor, Precision dual-frequency GPS
+- Battery: Up to 36 hours (72 hours in Low Power Mode)
+- Materials: Titanium case, flat sapphire front crystal
+- Other Features: Customizable Action button, 86dB siren, EN13319 dive certification

@@ -20,31 +20,33 @@ This Streamlit app is an intelligent assistant for answering questions about App
 
 ### 1. General Question  
 **Query:** `Name all apple products`  : It gives a list of different porducts along with the different models available for the product like iphone and its models, mackbooks, apple watches etc.
-![General Question Output](images/output_general.png)
+![General Question Output](images/ou[put_general1.png)
+![General Question Output](images/output_general2.png)
+![General Question Output](images/output_general3.png)
 
 ---
 
 ### 2. Product-Specific Specs  
 **Query:** `Specs of iPad Pro 2024`  
-![Product Specs Output](images/output_product_specs.png)
-
+![Product Specs Output](images/output_specific1.png)
+![Product Specs Output](images/output_specific2.png)
 ---
 
 ### 3. Calculator  
 **Query:** `Calculate 15 * 3`  
-![Calculator Output](images/Screenshot 2025-05-10 153202.png)
+![Calculator Output](images/output_calculator.png)
 
 ---
 
 ### 4. Dictionary Definition  
 **Query:** `Define M4`  
-![Dictionary Output](images/Screenshot 2025-05-10 153150.png)
+![Dictionary Output](images/output_dictionary.png)
 
 ---
 
 ### 5. Product Comparison  
 **Query:** `Compare iPad Pro vs iPad Air`  
-![Comparison Output](images/Screenshot 2025-05-10 153226.png)
+![Comparison Output](images/output_compare.png)
 
 ---
 

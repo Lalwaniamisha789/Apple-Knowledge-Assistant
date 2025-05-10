@@ -71,6 +71,7 @@ streamlit run app.py
 
 ## Project structure 
 
+```bash
 ├── app.py               # Streamlit frontend
 ├── agent.py             # Main decision router
 ├── llm_chain.py         # Handles RAG prompts and LLM generation
@@ -81,11 +82,13 @@ streamlit run app.py
 ├── vector_store/        # FAISS index (auto-created)
 ├── Docs/                # Text documents for RAG
 └── images/              # Screenshots of outputs
+```
 
 ## Notes 
 - The app uses TinyLlama-1.1B-Chat-v1.0
 - Works fully offline once vector store is created
 - Ideal for building product-specific knowledge assistants
+- You can see the retrieved document context and top 3 chunks used to generate each answer
 
 ## Future Improvements 
 - Add PDF/HTML loader support

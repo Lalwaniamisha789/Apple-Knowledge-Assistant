@@ -67,8 +67,8 @@ This Streamlit app is an intelligent assistant for answering questions about App
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/apple-rag-agent.git
-cd apple-rag-agent
+git clone https://github.com/Lalwaniamisha789/Apple-Knowledge-Assistant.git
+cd Apple-Knowledge-Assistant
 ```
 
 ### 2. Install dependencies 
